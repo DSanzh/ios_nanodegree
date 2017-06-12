@@ -9,14 +9,14 @@ The five courses in the nanodegree and final project in each course are as follo
 
 Course  | Name | Final Project
 ------------- | ------------- | -------------
-[ud585](https://www.udacity.com/course/intro-to-ios-app-development-with-swift--ud585). | Introduction to Swift | [Pitch Perfect](https://github.com/duliodenis/ios-nanodegree/tree/master/1_ud585_Intro_to_Swift/PitchPerfect)
-[ud788](https://www.udacity.com/course/uikit-fundamentals--ud788). | UIKit Fundamentals | [Meme Me](https://github.com/duliodenis/ios-nanodegree/tree/master/2_ud788_UIKit_Fundamentals/Mememe)
+[ud585](https://www.udacity.com/course/intro-to-ios-app-development-with-swift--ud585). | Introduction to Swift | [Pitch Perfect](https://github.com/DSanzh/ios_nanodegree/tree/master/1_ud585_Intro_to_Swift/PitchPerfect)
+[ud788](https://www.udacity.com/course/uikit-fundamentals--ud788). | UIKit Fundamentals | [Meme Me](https://github.com/DSanzh/ios_nanodegree/tree/master/2_ud788_UIKit_Fundamentals/Mememe)
 [ud421](https://www.udacity.com/course/ios-networking-with-swift--ud421). | iOS Networking | On The Map
 [ud325](https://www.udacity.com/course/ios-persistence-and-core-data--ud325). | iOS Persistence and Core Data | Virtual Tourist
 [ud607](https://www.udacity.com/course/how-to-make-an-ios-app--ud607). | Making an iOS App | Capstone
 
 ### Licensing
-The iOS Nanodegree apps are licensed under [the MIT License](https://github.com/duliodenis/ios-nanodegree/blob/master/LICENSE).
+The iOS Nanodegree apps are licensed under [the MIT License](https://github.com/DSanzh/ios_nanodegree/blob/master/LICENSE).
 
 ### Support or Contact
-Visit [ddApps.co](http://ddapps.co) to see more.
+Visit [mindshift.kz](http://mindshift.kz) to see more.
