@@ -1,5 +1,5 @@
-ud788: UIKit Fundamentals
-
+<h2>ud788: UIKit Fundamentals</h2>
+<br>
 This repo contains the app I built for the Udacity iOS Nanodegree Program course UIKit Fundamentals. The App is completely written from scratch in Swift.
 
 
