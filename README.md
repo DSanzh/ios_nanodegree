@@ -1,6 +1,6 @@
 # Hi! My name is Dauylov Sanzhar
 <br>
-<h3>This is the my Udacity iOS Nanodegree resources</h3>
+<h3>This is the my Udacity iOS Nanodegree Final project</h3>
 This repo contains the apps I built in the [Udacity iOS Nanodegree Program](https://www.udacity.com/course/ios-developer-nanodegree--nd003). All Apps are completely written from scratch in Swift.
 
 Over the course of the iOS Developer Nanodegree program you undertake five courses that each culminate in a portfolio-worthy iOS app that is designed to demonstrate expertise as an iOS Developer in those areas the course covers. These apps are written in Swift, Apple’s custom programming language designed specifically for building iOS and OS X apps. 
