@@ -1,23 +1,27 @@
-<h2>ud788: UIKit Fundamentals</h2>
-<br>
-This repo contains the app I built for the Udacity iOS Nanodegree Program course UIKit Fundamentals. The App is completely written from scratch in Swift.
+# ud585: UIKit Fundamentals
+This repo contains the app I built for the Udacity iOS Nanodegree Program course **Intro to iOS App Development with Swift**. The App is completely written from scratch in Swift.
 
+![](https://raw.githubusercontent.com/duliodenis/ios-nanodegree/master/art/intro-to-swift-banner.png)
 
+This course introduces Swift by building an iPhone app, PitchPerfect, that records a conversation between you and a friend, and then makes your voices sound like a Chipmunk or Darth Vader by altering the pitch of the audio we record.
 
-In this course, we built a series of simple apps to become more comfortable with the UIKit framework and master its most widely used components. This framework constitutes the building blocks of the user interface for all iOS apps, and is crucial for any iOS Developer to be intimately familiar with.
+We are introduced to the following iOS classes in this course:
 
-This course culminates with the creation of a meme generating app, MemeMe. This App covers collection views, tab bar controllers, how to adjust the screen to accommodate the keyboard, and how to access the camera.
+- UIButton
+- UILabel
+- NSLayoutConstraint
+- UIView
+- UIViewController
+- UINavigationController
+- AVAudioPlayer
+- AVFoundation
+- AVAudioRecorder
+- AVAudioEngine
+- AVAudioPlayerNode
+- AVAudioUnitTimePitch
 
-The following UIKit classes are introduced:
+### Licensing
+The iOS Nanodegree apps are licensed under [the MIT License](https://github.com/duliodenis/ios-nanodegree/blob/master/LICENSE).
 
-UICollectionView
-UICollectionViewDelegate
-UICollectionViewDatasource
-UITabBarController
-The following special guest classes from the Foundation framework make an appearence:
-
-NSNotification
-NSNotificationCenter
-Licensing
-
-The iOS Nanodegree apps are licensed under the MIT License.
+### Support or Contact
+Visit [ddApps.co](http://ddapps.co) to see more.
