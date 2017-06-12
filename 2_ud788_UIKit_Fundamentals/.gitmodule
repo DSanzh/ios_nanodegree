@@ -1,0 +1,3 @@
+[submodule “MemeMe”]
+    path = MemeMe
+    url = git@github.com:DSanzh/ios_nanodegree/2_ud788_UIKit_Fundamentals/MemeMe.git
