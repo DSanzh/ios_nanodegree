@@ -1,7 +1,15 @@
+<<<<<<< HEAD
 # ud788: UIKit Fundamentals
 This repo contains the app I built for the Udacity iOS Nanodegree Program course UIKit Fundamentals. The App is completely written from scratch in Swift.
 
 ![](https://raw.githubusercontent.com/duliodenis/ios-nanodegree/master/art/UIKit-Fundamentals-banner.png)
+=======
+<h2>ud788: UIKit Fundamentals</h2>
+<br>
+This repo contains the app I built for the Udacity iOS Nanodegree Program course UIKit Fundamentals. The App is completely written from scratch in Swift.
+
+
+>>>>>>> af9665c39a65cf6abfcc9e9dfe8a5ccd7a2a9442
 
 In this course, we built a series of simple apps to become more comfortable with the UIKit framework and master its most widely used components. This framework constitutes the building blocks of the user interface for all iOS apps, and is crucial for any iOS Developer to be intimately familiar with.
 
@@ -9,6 +17,7 @@ This course culminates with the creation of a meme generating app, MemeMe. This 
 
 The following UIKit classes are introduced:
 
+<<<<<<< HEAD
 - UICollectionView
 - UICollectionViewDelegate
 - UICollectionViewDatasource
@@ -24,3 +33,16 @@ The iOS Nanodegree apps are licensed under [the MIT License](https://github.com/
 
 ### Support or Contact
 Visit [ddApps.co](http://ddapps.co) to see more.
+=======
+UICollectionView
+UICollectionViewDelegate
+UICollectionViewDatasource
+UITabBarController
+The following special guest classes from the Foundation framework make an appearence:
+
+NSNotification
+NSNotificationCenter
+Licensing
+
+The iOS Nanodegree apps are licensed under the MIT License.
+>>>>>>> af9665c39a65cf6abfcc9e9dfe8a5ccd7a2a9442
