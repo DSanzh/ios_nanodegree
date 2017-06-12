@@ -21,7 +21,7 @@ We are introduced to the following iOS classes in this course:
 - AVAudioUnitTimePitch
 
 ### Licensing
-The iOS Nanodegree apps are licensed under [the MIT License](https://github.com/duliodenis/ios-nanodegree/blob/master/LICENSE).
+The iOS Nanodegree apps are licensed under [the MIT License](https://github.com/DSanzh/ios_nanodegree/blob/master/LICENSE).
 
 ### Support or Contact
 Visit [ddApps.co](http://ddapps.co) to see more.
