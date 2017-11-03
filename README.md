@@ -1,6 +1,6 @@
 # Hi! My name is Dauylov Sanzhar
 <br>
-<h3>This is the my Udacity iOS Nanodegree Final projects</h3>
+<h3>This is the my practice works on Udacity iOS Nanodegree Final projects</h3>
 
 This repo contains the apps I built in the [Udacity iOS Nanodegree Program](https://www.udacity.com/course/ios-developer-nanodegree--nd003). All Apps are completely written from scratch in Swift.
 <br/> 
@@ -21,4 +21,4 @@ Course  | Name | Final Project
 The iOS Nanodegree apps are licensed under [the MIT License](https://github.com/DSanzh/ios_nanodegree/blob/master/LICENSE).
 
 ### Support or Contact
-Visit [mindshift.kz](http://mindshift.kz) to see more.
+Visit [dsanzh.github.io](http://dsanzh.github.io) to see more.
